@@ -1,0 +1,142 @@
+--------- beginning of main
+05-16 05:35:49.147 23451 23451 D GBoxCore: getService: location_manager, android.os.BinderProxy@3727dcd
+05-16 05:35:49.147 23270 23342 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=96]
+05-16 05:35:49.148 23451 23451 D GBoxCore: getService: notification_manager, android.os.BinderProxy@3a23682
+05-16 05:35:49.154 23451 23451 D callGcSupression: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object java.lang.reflect.Method.invoke(java.lang.Object, java.lang.Object[])' on a null object reference
+05-16 05:35:49.157 23451 23451 I OpenGLRenderer: SupportApps size 0
+05-16 05:35:49.161 23451 23475 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+05-16 05:35:49.163 23451 23475 D ExtensionsLoader: Opened libSchedAssistExtImpl.so
+--------- beginning of system
+05-16 05:35:49.165 23451 23451 D ResourcesManagerExtImpl: applyConfigurationToAppResourcesLocked app.getDisplayId() return callback.displayId:-1
+05-16 05:35:49.166 23451 23477 D libMEOW : meow new tls: 0x79b9ede440
+05-16 05:35:49.166 23451 23477 D libMEOW : meow reload base cfg path: na
+05-16 05:35:49.166 23451 23477 D libMEOW : meow reload overlay cfg path: na
+05-16 05:35:49.166 23451 23477 W QT      : qt_process_init() called
+05-16 05:35:49.166 23451 23477 E QT      : [QT]file does not exist
+05-16 05:35:49.166 23451 23477 W QT      : Support!!
+05-16 05:35:49.166 23451 23477 D libMEOW : applied 0 plugin for [com.kill.loader].
+05-16 05:35:49.167 23451 23477 D libMEOW : meow delete tls: 0x79b9ede440
+05-16 05:35:49.178 23451 23451 D nativeloader: Load /data/app/~~Alhj6YBcpQfIQ_n0aG9RCA==/com.kill.loader-8MevXCiBvRoO6bqY2on9TA==/lib/arm64/libKill-Loader.so using ns clns-4 from class loader (caller=/data/app/~~Alhj6YBcpQfIQ_n0aG9RCA==/com.kill.loader-8MevXCiBvRoO6bqY2on9TA==/base.apk): ok
+05-16 05:35:49.208 23451 23451 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+05-16 05:35:49.237 23480 23480 W libprocessgroup: Controller io is not found
+05-16 05:35:49.237 23480 23480 W libprocessgroup: Controller io is not found
+05-16 05:35:49.237 23480 23480 W libprocessgroup: Controller io is not found
+05-16 05:35:49.238 23480 23480 W libprocessgroup: JoinCgroup: controller schedtune is not found
+05-16 05:35:49.239 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: CfqGroupIdle
+05-16 05:35:49.239 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: CfqWeight
+05-16 05:35:49.239 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: CfqGroupIdle
+05-16 05:35:49.239 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: CfqWeight
+05-16 05:35:49.239 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: BfqWeight
+05-16 05:35:49.239 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: CfqGroupIdle
+05-16 05:35:49.239 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: CfqWeight
+05-16 05:35:49.239 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: BfqWeight
+05-16 05:35:49.239 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: CfqGroupIdle
+05-16 05:35:49.239 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: CfqWeight
+05-16 05:35:49.239 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: BfqWeight
+05-16 05:35:49.239 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: CfqGroupIdle
+05-16 05:35:49.239 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: CfqWeight
+05-16 05:35:49.240 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: BfqWeight
+05-16 05:35:49.240 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: CfqGroupIdle
+05-16 05:35:49.240 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: CfqWeight
+05-16 05:35:49.240 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: BfqWeight
+05-16 05:35:49.240 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: CfqGroupIdle
+05-16 05:35:49.240 23480 23480 W libprocessgroup: SetAttribute: unknown attribute: CfqWeight
+05-16 05:35:49.247 23451 23451 I oplus.android.OplusFrameworkFactoryImpl: Unknow feature:IOplusTextViewRTLUtilForUG
+05-16 05:35:49.249 23451 23451 D nativeloader: Load liboplushwui_jni.so using system ns (caller=/system/framework/oplus-framework.jar): ok
+05-16 05:35:49.260 23451 23451 D OplusWindowManager: get WMS extension: android.os.BinderProxy@bc9d2d7
+05-16 05:35:49.291 23451 23451 E OplusCustomizeRestrictionManager: sInstance is null, start a new sInstance
+05-16 05:35:49.295 23451 23451 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10430; state: DISABLED
+05-16 05:35:49.296 23451 23451 D CompatibilityChangeReporter: Compat change id reported: 37756858; UID 10430; state: ENABLED
+05-16 05:35:49.311 23451 23451 D OplusInputMethodUtil: init sDebug to false, init sDebugIme to false, init sAlwaysOn to false
+05-16 05:35:49.311 23451 23451 D OplusInputMethodUtil: updateDebugToClass InputMethodManager.DEBUG = false
+05-16 05:35:49.311 23451 23451 D OplusInputMethodUtil: updateDebugToClass ImeFocusController.DEBUG = false
+05-16 05:35:49.312 23451 23451 D OplusInputMethodUtil: updateDebugToClass BaseInputConnection.DEBUG = false
+05-16 05:35:49.324 23451 23451 V TextView: notifyAutoFillManagerAfterTextChanged
+05-16 05:35:49.325 23451 23451 V AutofillManager: notifyValueChanged(1073741824): ignoring on state UNKNOWN
+05-16 05:35:49.329 23451 23451 V TextView: notifyAutoFillManagerAfterTextChanged
+05-16 05:35:49.329 23451 23451 V AutofillManager: notifyValueChanged(1073741824): ignoring on state UNKNOWN
+05-16 05:35:49.386 23451 23451 D ScrollOptimizationHelper: can't find the config file for optimizaiton
+05-16 05:35:49.386 23451 23451 D ScrollOptimizationHelper: will not debug for debug is false
+05-16 05:35:49.386 23451 23451 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10430; state: ENABLED
+05-16 05:35:49.387 23451 23451 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-16 05:35:49.387 23451 23451 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-16 05:35:49.387 23451 23451 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-16 05:35:49.400 23451 23451 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-16 05:35:49.400 23451 23451 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-16 05:35:49.400 23451 23451 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-16 05:35:49.420 23451 23451 I SurfaceFactory: [static] sSurfaceFactory = com.mediatek.view.impl.SurfaceFactoryImpl@973967
+05-16 05:35:49.421 23451 23451 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+05-16 05:35:49.421 23451 23451 D ExtensionsLoader: Opened libguiextimpl.so
+05-16 05:35:49.421 23451 23451 D nativeloader: Load liboplusgui_jni.so using system ns (caller=/system/framework/oplus-framework.jar): ok
+05-16 05:35:49.432 23451 23451 D CompatibilityChangeReporter: Compat change id reported: 237531167; UID 10430; state: DISABLED
+05-16 05:35:49.436 23451 23451 I DynamicFramerate [FRTCConfigManager]: initFrameRateConfig: 
+05-16 05:35:49.436 23451 23451 I DynamicFramerate [FRTCConfigManager]: 	levels: [120, 60]
+05-16 05:35:49.436 23451 23451 I DynamicFramerate [FRTCConfigManager]: 	thresholds: [200]
+05-16 05:35:49.436 23451 23451 I DynamicFramerate [FRTCConfigManager]: 	scrollbar fade frame rate: 0
+05-16 05:35:49.436 23451 23451 I DynamicFramerate [FRTCConfigManager]: FRTCConfigManager: FRTC_CAPABILITY = 120, package name = com.kill.loader, WINDOW_ANIMATION_SPEED_RATE = 10, SCROLL_ANIMATION_SPEED_RATE = 20, MuitiWindowIdleFramerate = 60, PACKAGE_ENABLE = false
+05-16 05:35:49.436 23451 23451 I DynamicFramerate [DynamicFrameRateController]: init info: mPackageName = com.kill.loader, mIsEnabled = false
+05-16 05:35:49.436 23451 23451 D WindowManager: Add to mViews: DecorView@8b0314[LoginActivity],pkg= com.kill.loader
+05-16 05:35:49.438 23451 23451 W OpenGLRenderer: Unknown dataspace 0
+05-16 05:35:49.439 23451 23475 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+05-16 05:35:49.440 23451 23475 D ExtensionsLoader: Opened libhwuiextimpl.so
+05-16 05:35:49.441 23451 23451 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+05-16 05:35:49.441 23451 23451 D ExtensionsLoader: Opened libSchedAssistExtImpl.so
+05-16 05:35:49.462 23451 23451 D ViewRootImplExtImpl: onDisplayChanged -1 for VRI android.view.ViewRootImpl@9f3c80
+05-16 05:35:49.465 23451 23451 D InputEventReceiver: Input log is disabled in InputEventReceiver.
+05-16 05:35:49.477 23451 23451 V TextView: notifyAutoFillManagerAfterTextChanged
+05-16 05:35:49.478 23451 23451 V AutofillManager: notifyValueChanged(1073741824): ignoring on state UNKNOWN
+05-16 05:35:49.496 23451 23451 I Quality : ActivityThread: activityStart delay 342 com.kill.loader 23451
+05-16 05:35:49.502 23451 23451 D ScrollOptim [SceneManager]: updateCurrentActivity: mCurrentActivityName=android.loader.activity.LoginActivity, isOptEnable=true, isAnimAheadEnable=true, isFrameInsertEnable=true, InsertNum=1, isEnabledForScrollChanged=false
+05-16 05:35:49.503 23451 23451 D ActivityThread: ComponentInfo{com.kill.loader/android.loader.activity.LoginActivity} checkFinished=false 2
+05-16 05:35:49.503 23451 23451 D ResourcesManagerExtImpl: applyConfigurationToAppResourcesLocked app.getDisplayId() return callback.displayId:-1
+05-16 05:35:49.510 23451 23451 D WindowManager: Add to mViews: DecorView@2dadc10[LoginActivity],pkg= com.kill.loader
+05-16 05:35:49.515 23451 23470 D nativeloader: Load libpowerhalwrap_jni.so using system ns (caller=/system_ext/framework/mediatek-framework.jar): ok
+05-16 05:35:49.516 23451 23470 I PowerHalWrapper: PowerHalWrapper.getInstance 
+05-16 05:35:49.518 23451 23451 D ViewRootImplExtImpl: onDisplayChanged -1 for VRI android.view.ViewRootImpl@92d7f2f
+05-16 05:35:49.519 23451 23451 D InputEventReceiver: Input log is disabled in InputEventReceiver.
+05-16 05:35:49.520 23451 23451 D callGcSupression: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object java.lang.reflect.Method.invoke(java.lang.Object, java.lang.Object[])' on a null object reference
+05-16 05:35:49.521 23451 23451 D ResourcesManagerExtImpl: applyConfigurationToAppResourcesLocked app.getDisplayId() return callback.displayId:-1
+05-16 05:35:49.523 23451 23451 I Quality : Skipped: false 1 cost 20.503384 refreshRate 16666667 bit true processName com.kill.loader
+05-16 05:35:49.526 23451 23451 E OplusBracketLog: [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@9f3c80
+05-16 05:35:49.547 23451 23451 D BufferQueueConsumer: [](id:5b9b00000000,api:0,p:-1,c:23451) connect: controlledByApp=false
+05-16 05:35:49.559 23451 23475 D libMEOW : meow new tls: 0x7a2152adc0
+05-16 05:35:49.559 23451 23475 D libMEOW : applied 0 plugin for [com.kill.loader].
+05-16 05:35:49.584 23451 23475 E OpenGLRenderer: Unable to match the desired swap behavior.
+05-16 05:35:49.584 23451 23451 I SurfaceControl:  setExtendedRangeBrightness sc=Surface(name=com.kill.loader/android.loader.activity.LoginActivity)/@0x788981a,currentBufferRatio=1.0,desiredRatio=1.0
+05-16 05:35:49.591 23451 23475 D MAGT_SYNC_FRAME: MAGT Sync: MAGT is not supported. Disabling Sync.
+05-16 05:35:49.607 23451 23475 D BLASTBufferQueue: [VRI[LoginActivity][com.kill.loader/android.loader.activity.LoginActivity]#0](f:0,a:1) acquireNextBufferLocked size=812x360 mFrameNumber=1 applyTransaction=true mTimestamp=147991167699127(auto) mPendingTransactions.size=0 graphicBufferId=100721278058496 transform=0
+05-16 05:35:49.607 23451 23475 D VRI[LoginActivity]: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+05-16 05:35:49.608 23451 23451 D VRI[LoginActivity]: draw finished. seqId=0
+05-16 05:35:49.608 23451 23451 D VRI[LoginActivity]: reportDrawFinished
+05-16 05:35:49.609 23451 23451 D ViewRootImplExtImpl: setMaxDequeuedBufferCount: 2
+05-16 05:35:49.610 23451 23451 E OplusBracketLog: [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@92d7f2f
+05-16 05:35:49.627 23451 23451 D ViewRootImplExtImpl: wrapConfigInfoIntoFlags rotation=0, smallestScreenWidthDp=360, relayoutAsync=false, newFlags=23592960, title=com.kill.loader/android.loader.activity.LoginActivity
+05-16 05:35:49.637 23451 23451 D VRI[LoginActivity]: relayoutWindow result, sizeChanged:true, surfaceControlChanged:true, transformHintChanged:true, mSurfaceSize:Point(720, 1604), mLastSurfaceSize:Point(0, 0), mWidth:-1, mHeight:-1, requestedWidth:720, requestedHeight:1604, transformHint:0, lastTransformHint:-2147483648, installOrientation:0, displayRotation:0, isSurfaceValid:true, attr.flag:-2122252032, useBlast:true, tmpFrames:ClientWindowFrames{frame=[0,0][720,1604] display=[0,0][720,1604] parentFrame=[0,0][0,0]}, relayoutAsync:false, mSyncSeqId:0
+05-16 05:35:49.638 23451 23451 W VRI[LoginActivity]: updateBlastSurfaceIfNeeded, surfaceSize:Point(720, 1604), lastSurfaceSize:Point(0, 0), format:-1, blastBufferQueue:null
+05-16 05:35:49.639 23451 23451 D BufferQueueConsumer: [](id:5b9b00000001,api:0,p:-1,c:23451) connect: controlledByApp=false
+05-16 05:35:49.643 23451 23451 D AutofillManager: notifyViewEnteredForFillDialog:1073741824
+05-16 05:35:49.648 23451 23475 E OpenGLRenderer: Unable to match the desired swap behavior.
+05-16 05:35:49.650 23451 23451 I SurfaceControl:  setExtendedRangeBrightness sc=Surface(name=com.kill.loader/android.loader.activity.LoginActivity)/@0x17a759c,currentBufferRatio=1.0,desiredRatio=1.0
+05-16 05:35:49.661 23451 23475 D BLASTBufferQueue: [VRI[LoginActivity][com.kill.loader/android.loader.activity.LoginActivity]#1](f:0,a:1) acquireNextBufferLocked size=720x1604 mFrameNumber=1 applyTransaction=true mTimestamp=147991222180974(auto) mPendingTransactions.size=0 graphicBufferId=100721278058509 transform=0
+05-16 05:35:49.661 23451 23475 D VRI[LoginActivity]: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+05-16 05:35:49.663 23451 23451 D VRI[LoginActivity]: draw finished. seqId=0
+05-16 05:35:49.663 23451 23451 D VRI[LoginActivity]: reportDrawFinished
+05-16 05:35:49.664 23451 23451 D ViewRootImplExtImpl: setMaxDequeuedBufferCount: 2
+05-16 05:35:49.665 23451 23451 D VRI[LoginActivity]: onFocusEvent true
+05-16 05:35:49.669 23451 23451 I Quality : Skipped: false 6 cost 112.52347 refreshRate 16681313 bit true processName com.kill.loader
+05-16 05:35:49.677 23451 23475 D VRI[LoginActivity]: Received frameCommittedCallback lastAttemptedDrawFrameNum=5 didProduceBuffer=true syncBuffer=false
+05-16 05:35:49.678 23451 23451 D VRI[LoginActivity]: draw finished. seqId=0
+05-16 05:35:49.678 23451 23451 D VRI[LoginActivity]: reportDrawFinished
+05-16 05:35:50.026 23451 23451 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-16 05:35:50.026 23451 23451 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-16 05:35:50.026 23451 23451 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-16 05:35:50.036 23451 23451 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-16 05:35:50.036 23451 23451 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-16 05:35:50.037 23451 23451 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-16 05:35:50.055 23451 23451 D WindowManager: Add to mViews: DecorView@2d27d56[LoginActivity],pkg= com.kill.loader
+05-16 05:35:50.072 23451 23451 D ViewRootImplExtImpl: onDisplayChanged -1 for VRI android.view.ViewRootImpl@cdfedad
+05-16 05:35:50.073 23451 23451 D InputEventReceiver: Input log is disabled in InputEventReceiver.
+05-16 05:35:50.077 23451 23451 E OplusBracketLog: [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@cdfedad
+05-16 05:35:50.105 23451 23451 D BufferQueueConsumer: [](id:5b9b00000002,api:0,p:-1,c:23451) connect: controlledByApp=false
+05-16 05:35:50.113 23451 23475 E OpenGLRenderer: Unable to match the desired swap behavior.
+05-16 05:35:50.116 23451 23451 I SurfaceControl:  setExtende
